@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC728C69-2351-4187-B104-36F302BA846D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14285B06-D4AB-4AB2-A3B0-5A5024B85345"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterfaceBuilderBasics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "changeTitleBack(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14285B06-D4AB-4AB2-A3B0-5A5024B85345 - a04a5f17299645c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfaceBuilderBasics.ViewController.changeTitleBack(Any) -&gt; ()"
+                  moduleName = "InterfaceBuilderBasics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapierreharris/Desktop/ThingsIDidSolo/InterfaceBuilderBasics/InterfaceBuilderBasics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "14285B06-D4AB-4AB2-A3B0-5A5024B85345 - 3c8ade419c5ddd0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfaceBuilderBasics.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "InterfaceBuilderBasics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapierreharris/Desktop/ThingsIDidSolo/InterfaceBuilderBasics/InterfaceBuilderBasics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9790A8F1-05F1-47D5-8834-79DEAFD8B70B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InterfaceBuilderBasics/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "changeTitleBack(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9790A8F1-05F1-47D5-8834-79DEAFD8B70B - 881da31111763806"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfaceBuilderBasics.ViewController.LabelSwitch() -&gt; ()"
+                  moduleName = "InterfaceBuilderBasics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapierreharris/Desktop/ThingsIDidSolo/InterfaceBuilderBasics/InterfaceBuilderBasics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9790A8F1-05F1-47D5-8834-79DEAFD8B70B - a04a5f172996450a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InterfaceBuilderBasics.ViewController.changeTitleBack(Any) -&gt; ()"
+                  moduleName = "InterfaceBuilderBasics"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lapierreharris/Desktop/ThingsIDidSolo/InterfaceBuilderBasics/InterfaceBuilderBasics/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
